@@ -1,0 +1,3 @@
+rootProject.name = 'StockSnapProject'
+
+include ':app'
